@@ -1,6 +1,7 @@
+# Import API keys from env
 import os
 from dotenv import load_dotenv
-
+# Required libraries
 from langchain_community.llms import Ollama
 import streamlit as st
 from langchain_core.prompts import ChatPromptTemplate
