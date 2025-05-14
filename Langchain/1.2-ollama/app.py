@@ -1,3 +1,5 @@
+"""This is Ollama for the response of the user querry in such away which reponsed fully real time and open source for users
+.for use use of this only required the Groq API key """
 # Import API keys from env
 import os
 from dotenv import load_dotenv
